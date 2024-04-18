@@ -1,0 +1,15 @@
+#menu-table {
+    display: table;
+    background: #dd0bc4;
+    width: 100%;
+}
+#menu-table li {
+   display: table-cell;
+   padding: 10px;
+   border-right: 1px solid #800571;
+   text-align: center;
+}
+#menu-table li:hover {
+   background: #800571;
+ }
+    <h5>&#kostyagolybnichii</h5>
